@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Kalendarz" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F49797</item>
+        <item name="colorPrimaryVariant">#471313</item>
+        <item name="colorOnPrimary">#471313</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#F49797</item>
+        <item name="colorSecondaryVariant">#F49797</item>
+        <item name="colorOnSecondary">#471313</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#471313</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
